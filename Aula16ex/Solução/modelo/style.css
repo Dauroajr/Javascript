@@ -1,0 +1,43 @@
+
+body {
+    background: linear-gradient(rgb(0, 5, 73), #0091ff);
+    font: normal 15pt Arial;
+    height: 94.82vh;
+}
+
+header {
+    color: #fff;
+    text-align: center;
+}
+
+section {
+    background: rgba(3, 166, 216, 0.692);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.459);
+}
+
+section #flista {
+    width: 200px;
+}
+
+input[type=button] {
+    background: rgb(190, 190, 190);
+    border-radius: 3px;
+    border: 1px solid;
+    padding: 3px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.479);
+}
+
+/* input[type=button]::after {
+    box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.479);
+} */
+
+footer {
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+}

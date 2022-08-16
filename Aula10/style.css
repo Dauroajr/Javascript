@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    font: normal 16pt arial;
+    background: linear-gradient(to bottom, #000552, #ff9900);
+    margin: 0 auto;
+    width: 100vw;
+    height: 100vh;
+}
+h1 {
+    color: #fff;
+}
+input {
+    font: normal 16pt arial;
+    width: 80px;
+    padding: 5px;
+    background: #fff;
+}
+#res {
+    margin-top: 10px;
+    color: #fff;
+}
